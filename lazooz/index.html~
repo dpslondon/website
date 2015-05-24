@@ -171,7 +171,6 @@
                     </li>
                     <li><a href="#contact">Contact</a>
                     </li>
-<li><a href="./faq.html">FAQ</a></li>
                 </ul>
             </div>
         </div>
@@ -241,7 +240,7 @@
                 
          <div class="row "     s ">
         <div class="col-md-4 col-xs-12" style="margin-top:40px;  ">
-            <div class="points" data-animated="0">
+            <div class="team" data-animated="0">
                 <img src="./img/traffic_icon.png" class="img-responsive" alt="" width="144" height="144" style="margin-left: auto;
     margin-right: auto; margin-bottom:10px; ">
                 <div class="content">
@@ -254,7 +253,7 @@
 
 
         <div class=" col-md-4 col-xs-12" style=" margin-top:40px;">
-            <div class="points" data-animated="200">
+            <div class="team" data-animated="200">
                 <img src="./img/resources-icon.png" class="img-responsive" alt="" width="144" height="144" style="margin-left: auto;
     margin-right: auto; margin-bottom:10px;">
 
@@ -267,7 +266,7 @@
         </div>
 
         <div class=" col-md-4 col-xs-12" style=" margin-top:40px;">
-            <div class="points" data-animated="400">
+            <div class="team" data-animated="400">
                 <img src="./img/collaboration-icon.png" class="img-responsive" alt="" width="144" height="144" style="margin-left: auto;
     margin-right: auto; margin-bottom:10px;">
 
@@ -311,7 +310,7 @@
 
 
         <!-- Community -->
-        <section id="community" class="section-gray text-center " style=" background-color:#4E5869; ">
+        <section id="community " class="section-gray text-center " style=" background-color:#4E5869; ">
             <div class="section-heading " data-animated="0 ">community</div>
 
             <div class=" hidden-xs visible-md-block visible-lg-block visible-sm-block ">
@@ -337,13 +336,13 @@
 
 
         <!-- Our team -->
-        <section id="team" class=" text-center ">
+        <section id="team " class=" text-center ">
             <div class="container ">
                 <div class="section-heading " data-animated="0 ">La`Zooz Core team</div>
                 <p class="lead " data-animated="0 ">La`Zooz is a decentralized organization therefore many people have contributed to its formation. I am pleased to introduce you to the main contributors at this time</p>
                 <div class="row margin-top-medium ">
                     <div class=" col-md-4 col-xs-12 ">
-                        <div class="team1" data-animated="0 ">
+                        <div class="team " data-animated="0 ">
                             <img src="./assets/Shay.jpg " class="image " alt=" " />
                             <div class="content ">
                                 <div class="name uppercase ">Shay Zluf</div>
@@ -363,7 +362,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-12 ">
-                        <div class="team1" data-animated="200 ">
+                        <div class="team " data-animated="200 ">
                             <img src="./assets/team-2.jpg " class="image " alt=" " />
                             <div class="content ">
                                 <div class="name uppercase ">Oren Sokolowsky</div>
@@ -383,7 +382,7 @@
                         </div>
                     </div>
                     <div class=" col-md-4 col-xs-12 ">
-                        <div class="team3" data-animated="400 ">
+                        <div class="team " data-animated="400 ">
                             <img src="./assets/Eitan.png" class="image " alt=" " />
                             <div class="content ">
                                 <div class="name uppercase ">Eitan</div>
@@ -404,21 +403,6 @@
                     </div>
 
                 </div>
-<div class="email-wrapper">
-            <div class="email-container email-info">
-                <div class="email-title">Join us!</div>
-                   </div>
-
-            <form data-toggle="validator" role="form">
-                <div class="email-container email-controls form-group">
-                    <input class="email-input form-control" id="email-input" type="email" placeholder="email" data-error="Bruh, that email address is invalid">
-                    <span type="submit" class="btn email-btn">send</span>
-                    <div class="help-block with-errors" id="email-help-block"></div>
-                </div>
-            </form>
-            
-    </div>
-</div>
             </div>
         </section>
 
@@ -444,7 +428,7 @@
 
 
         <!-- Contact section -->
-        <section id="contact" class=" text-center " style=" background-color: rgb(97,200,209);">
+        <section id="contact " class=" text-center " style=" background-color: rgb(97,200,209);">
             <div class="container ">
                 <div class="section-heading " data-animated="0 ">Contact</div>
                 <p class="lead margin-bottom-small " data-animated="0 ">Urna viverra nec adipiscing ac pulvinar turpis. Aliquam vel tellus eenean tinc onec ac orci sed</p>
